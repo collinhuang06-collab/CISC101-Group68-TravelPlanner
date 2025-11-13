@@ -1,3 +1,4 @@
+Change Log (2025-11-05): – Updated time overrun to support time constraint
 ### **Module 3 — Feasibility & Guardrails**
 
 Apply these **if/else** checks to make sure plans are realistic and adapt to edge cases:
@@ -20,7 +21,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 5. **Time Overrun**
    
-   - If total planned time > available hours → adjust all activity times to achieve time constraint
+   - If total planned time > available hours → adjust all activity times to achieve time constraint.
 
 6. **Mobility Needs**
    
