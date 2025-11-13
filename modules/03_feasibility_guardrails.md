@@ -20,7 +20,7 @@ Apply these **if/else** checks to make sure plans are realistic and adapt to edg
 
 5. **Time Overrun**
    
-   - If total planned time > available hours → shorten lunch or pick a nearer stop.
+   - If total planned time > available hours → adjust all activity times to achieve time constraint
 
 6. **Mobility Needs**
    
