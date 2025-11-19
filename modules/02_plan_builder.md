@@ -8,6 +8,7 @@ CHANGE LOG — Updated Nov 19, 2025
 - Improved output formatting with time blocks, notes, costs, and backup options
 -->
 
+
 # Module 2 — Plan Builder (Options → Days)
 
 Inputs
